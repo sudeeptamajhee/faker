@@ -15,6 +15,7 @@ C:\tmp>cd faker
 Install json-server Library
 ----------------------------
 C:\tmp\faker>npm install json-server --save
+
 npm WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
 npm WARN saveError ENOENT: no such file or directory, open 'C:\tmp\faker\package.json'
 npm notice created a lockfile as package-lock.json. You should commit this file.
@@ -35,6 +36,7 @@ found 0 vulnerabilities
 Install faker Library
 ----------------------
 C:\tmp\faker>npm install faker --save
+
 npm WARN saveError ENOENT: no such file or directory, open 'C:\tmp\faker\package.json'
 npm WARN enoent ENOENT: no such file or directory, open 'C:\tmp\faker\package.json'
 npm WARN faker No description
